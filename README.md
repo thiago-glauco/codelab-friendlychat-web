@@ -9,7 +9,7 @@ code for Web, Cloud Functions, Performance Monitoring. To get started, open the 
 
 
 # Mine implementations
-I forked this project to learn the Chat creation process and implement in my customer apps.
+I forked this project to learn the Chat creation process and implement in my customer apps. In the end I will share a free Angular version of this chat app.
 
 
 ## License
