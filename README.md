@@ -8,8 +8,8 @@ code for Web, Cloud Functions, Performance Monitoring. To get started, open the 
  - [Firebase Performance Monitoring for Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-perf-mon-web/).
 
 
-## How to make contributions?
-Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
+# Mine implementations
+I forked this project to learn the Chat creation process and implement in my customer apps.
 
 
 ## License
